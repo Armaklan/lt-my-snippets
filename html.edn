@@ -1,0 +1,11 @@
+{:modes {:+ #{:editor.html}}
+ :snippets [
+            {:name "Twig If"
+             :key "tw-if"
+             :snippet-file "twig-file.snip"
+             }
+            {:name "Twig forech"
+             :key "tw-for"
+             :snippet-file "twig-foreach.snip"
+             }
+            ]}
