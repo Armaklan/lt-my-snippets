@@ -8,4 +8,9 @@
              :key "tw-for"
              :snippet-file "twig-foreach.snip"
              }
+            {:name "Twig include"
+             :key "tw-inc"
+             :snippet "{% include('${1:path}.html.twig') %}$0"
+             }
+
             ]}
