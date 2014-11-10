@@ -1,0 +1,11 @@
+{:modes {:+ #{:editor.javascript}}
+ :snippets [
+            {:name "Wrapper Anonyme"
+             :key "wrapper"
+             :snippet-file "javascript/wrapper.snip"
+             }
+            {:name "Namespace module"
+             :key "namespace"
+             :snippet-file "javascript/namespace.snip"
+             }
+            ]}

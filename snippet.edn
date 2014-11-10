@@ -2,10 +2,10 @@
  :snippets [
             {:name "Editor block"
              :key "ed"
-             :snippet-file "editor.snip"
+             :snippet-file "snippet-ed/editor.snip"
              }
             {:name "New snippet"
              :key "snip"
-             :snippet-file "snippet.snip"
+             :snippet-file "snippet-ed/snippet.snip"
             }
             ]}
