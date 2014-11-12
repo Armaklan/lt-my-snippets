@@ -1,0 +1,7 @@
+{:modes {:+ #{:editor.html}}
+ :snippets [
+            {:name "Ng Bind Text Input"
+             :key "ngtext"
+             :snippet-file "angular/ngtext.snip"
+             }
+            ]}

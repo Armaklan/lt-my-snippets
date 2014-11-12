@@ -1,0 +1,7 @@
+{:modes {:+ #{:editor.javascript}}
+ :snippets [
+            {:name "Routing function"
+             :key "route"
+             :snippet-file "angular/route.snip"
+             }
+            ]}

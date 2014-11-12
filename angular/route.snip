@@ -1,0 +1,9 @@
+var routeConfig = function($stateProvider) {
+  $stateProvider
+  .state('${1:name}', {
+    url: '/$1',
+    templateUrl: 'app/${2:folder}/${3:tpl}.html',
+    controller: '${4:My}Ctrl'
+  });
+};
+$0
